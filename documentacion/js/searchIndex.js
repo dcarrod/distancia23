@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\esPar\u0028\u0029",
+            "name": "esPar",
+            "summary": "Funci\u00F3n\u0020que\u0020comprueba\u0020si\u0020un\u0020n\u00FAmero\u0020es\u0020par.",
+            "url": "namespaces/default.html#function_esPar"
+        },                {
+            "fqsen": "\\calcularAreaCirculo\u0028\u0029",
+            "name": "calcularAreaCirculo",
+            "summary": "Funci\u00F3n\u0020que\u0020calcula\u0020el\u0020\u00E1rea\u0020de\u0020un\u0020c\u00EDrculo.",
+            "url": "namespaces/default.html#function_calcularAreaCirculo"
+        },                {
+            "fqsen": "\\esPalindromo\u0028\u0029",
+            "name": "esPalindromo",
+            "summary": "Funci\u00F3n\u0020que\u0020comprueba\u0020si\u0020una\u0020palabra\u0020es\u0020un\u0020pal\u00EDndromo.",
+            "url": "namespaces/default.html#function_esPalindromo"
+        },                {
+            "fqsen": "\\Persona",
+            "name": "Persona",
+            "summary": "Clase\u0020Persona\u0020que\u0020representa\u0020a\u0020una\u0020persona\u0020con\u0020un\u0020nombre.",
+            "url": "classes/Persona.html"
+        },                {
+            "fqsen": "\\Persona\u003A\u003AgetNombre\u0028\u0029",
+            "name": "getNombre",
+            "summary": "M\u00E9todo\u0020que\u0020obtiene\u0020el\u0020nombre\u0020de\u0020la\u0020persona.",
+            "url": "classes/Persona.html#method_getNombre"
+        },                {
+            "fqsen": "\\Persona\u003A\u003Asaludar\u0028\u0029",
+            "name": "saludar",
+            "summary": "M\u00E9todo\u0020para\u0020saludar\u0020\u0028DEPRECATED\u0029.",
+            "url": "classes/Persona.html#method_saludar"
+        },                {
+            "fqsen": "\\Persona\u003A\u003AsaludarFormal\u0028\u0029",
+            "name": "saludarFormal",
+            "summary": "M\u00E9todo\u0020para\u0020saludar\u0020de\u0020manera\u0020formal.",
+            "url": "classes/Persona.html#method_saludarFormal"
+        },                {
+            "fqsen": "\\Persona\u003A\u003A\u0024nombre",
+            "name": "nombre",
+            "summary": "",
+            "url": "classes/Persona.html#property_nombre"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
