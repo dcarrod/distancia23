@@ -1,8 +1,8 @@
 <?php
 /**
  * Este script contiene una clase Persona, su constructor y dos métodos de la clase.
- * @author Delia Cara Rodríguez
- * @version 1.1.0
+ * @author Delia Cara Rodríguez - Despliegue aplicaciones web 2022/2023
+ * @version 1.1.1
  */
 
  /**

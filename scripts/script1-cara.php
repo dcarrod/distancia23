@@ -1,8 +1,8 @@
 <?php
 /**
  * Este script contiene funciones para realizar operaciones matemáticas y manipulación de palabras.
- * @author Delia Cara Rodríguez
- * @version 1.0.0
+ * @author Delia Cara Rodríguez DAW 22/23
+ * @version 1.0.1
  */
 
  /**
